@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Web
+
+```sh
+https://chic-boba-233d44.netlify.app/
+```
