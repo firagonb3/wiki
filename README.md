@@ -30,6 +30,8 @@ npm run build
 
 ### Web
 
+[https://chic-boba-233d44.netlify.app/](https://chic-boba-233d44.netlify.app/)
+
 ```sh
 [https://chic-boba-233d44.netlify.app/](https://chic-boba-233d44.netlify.app/)
 ```
